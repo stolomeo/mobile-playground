@@ -3,4 +3,5 @@ This repo will be used as my personal playground for mobile devlopment using [Re
 ## Built with
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [Expo](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
